@@ -14,6 +14,7 @@
 
 Фото: 
 
+![Photo.jpg](img/Photo.jpg)
 
 
 
